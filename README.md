@@ -1,4 +1,4 @@
-# magic CSS bakground part 2](https://lebryere.github.io/magic_background_3_2/)
+# [magic CSS bakground part 2](https://lebryere.github.io/magic_background_3_2/)
 
 ## Preview
 
